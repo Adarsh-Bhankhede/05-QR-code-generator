@@ -1,6 +1,6 @@
 # 📱 QR Code Generator
 
-**Week 4 - Project 4**
+**Week 5 - Project 5**
 
 ## Description
 
